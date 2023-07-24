@@ -1,0 +1,53 @@
+Seguro, aquí te dejo una lista de 50 ejercicios para practicar funciones en Python y JavaScript. Algunos de estos problemas pueden ser más complejos y requerirán el uso de conceptos de programación adicionales. Recuerda que lo más importante es entender cómo y por qué tu solución funciona.
+
+1.  Escribe una función que salude al usuario ingresado. 
+2.  Crea una función que tome dos números como parámetros y devuelva su suma.
+3.  Escribe una función que tome una lista de números y devuelva el mayor número en la lista.
+4.  Crea una función que tome una lista de números y devuelva el menor número en la lista.
+5.  Escribe una función que tome una lista de números y devuelva la suma de todos los números en la lista.
+6.  Crea una función que tome una lista de números y devuelva el promedio de los números.
+7.  Escribe una función que tome un número y devuelva su factorial.
+8.  Crea una función que tome una cadena y devuelva la misma cadena en reversa.
+9.  Escribe una función que tome un número y verifique si es un número primo.
+10. Crea una función que tome un número y devuelva una lista de sus divisores.
+11. Escribe una función que tome dos cadenas y devuelva `True` si son anagramas y `False` de lo contrario.
+12. Crea una función que tome una cadena y devuelva `True` si es un palíndromo y `False` de lo contrario.
+13. Escribe una función que convierta grados Celsius a Fahrenheit.
+14. Crea una función que convierta grados Fahrenheit a Celsius.
+15. Escribe una función que tome un número y devuelva una lista de los números de Fibonacci hasta ese número.
+16. Crea una función que tome una lista de números y devuelva una lista de los números únicos en la lista.
+17. Escribe una función que tome un número y devuelva `True` si es un número perfecto y `False` de lo contrario.
+18. Crea una función que tome un número y devuelva `True` si es un número Armstrong y `False` de lo contrario.
+19. Escribe una función que tome un número y calcule la suma de sus dígitos.
+20. Crea una función que tome un número y devuelva el número de dígitos en ese número.
+21. Escribe una función que tome una cadena y cuente el número de vocales en la cadena.
+22. Crea una función que tome una cadena y cuente el número de consonantes en la cadena.
+23. Escribe una función que tome una lista y devuelva una nueva lista con los elementos de la lista original en orden inverso.
+24. Crea una función que tome dos números y devuelva su producto.
+25. Escribe una función que tome una lista y devuelva la longitud de la lista.
+26. Crea una función que tome una lista y devuelva una nueva lista con los elementos duplicados eliminados.
+27. Escribe una función que tome una cadena y devuelva la misma cadena con todas las letras en mayúsculas.
+28. Crea una función que tome una cadena y devuelva la misma cadena con todas las letras en minúsculas.
+29. Escribe una función que tome una cadena y devuelva la misma cadena con la primera letra de cada palabra en mayúsculas.
+30. Crea una función que tome una lista y un número n y devuelva el n-ésimo elemento de la lista.
+31. Escribe una función que tome un número y devuelva una lista de todos los números desde 1 hasta el número dado.
+32. Crea una función que tome una lista de números y devuelva una lista de todos los números pares en la lista.
+33. Escribe una función que tome una lista de números y devuelva una lista de todos los números impares en la lista.
+34. Crea una función que tome una lista de números y devuelva una nueva lista con los números ordenados de menor a mayor.
+35. Escribe una función que tome un número y devuelva una cadena que representa ese número en notación romana.
+36. Crea una función que tome un número y devuelva una cadena que representa ese número en notación binaria.
+37. Escribe una función que tome una lista de números y devuelva el producto de todos los números en la lista.
+38. Crea una función que tome una cadena y devuelva el número de palabras en la cadena.
+39. Escribe una función que tome un número y devuelva una cadena que representa ese número en notación hexadecimal.
+40. Crea una función que tome una lista de cadenas y devuelva una nueva lista con las cadenas ordenadas alfabéticamente.
+41. Escribe una función que tome una cadena y devuelva el número de letras en la cadena.
+42. Crea una función que tome un número y devuelva la suma de los cuadrados de todos los números hasta el número dado.
+43. Escribe una función que tome una cadena y devuelva la misma cadena con todas las vocales eliminadas.
+44. Crea una función que tome una lista de números y devuelva la mediana de los números.
+45. Escribe una función que tome una lista de números y devuelva el modo de los números.
+46. Crea una función que tome una cadena y devuelva `True` si la cadena contiene solo dígitos y `False` de lo contrario.
+47. Escribe una función que tome una cadena y devuelva la misma cadena con todas las letras alternando entre mayúsculas y minúsculas.
+48. Crea una función que tome una lista de números y devuelva la desviación estándar de los números.
+49. Escribe una función que tome un número y devuelva `True` si el número es un cuadrado perfecto y `False` de lo contrario.
+50. Crea una función que tome un número y devuelva una lista de todos los números primos hasta el número dado.
+

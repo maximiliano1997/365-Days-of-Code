@@ -1,0 +1,23 @@
+Aquí tienes diez desafíos de programación que implican recursividad y son bastante simples para empezar:
+
+1. **Suma de los primeros N números naturales**: Escriba una función recursiva que devuelva la suma de los primeros N números naturales.
+
+2. **Factorial de un número**: Implementa una función recursiva para calcular el factorial de un número.
+
+3. **Fibonacci**: Implementa una función recursiva para calcular el N-ésimo número de la serie de Fibonacci.
+
+4. **Inversión de una cadena**: Escribe una función recursiva para invertir una cadena de caracteres.
+
+5. **Suma de dígitos de un número**: Escribe una función recursiva que devuelva la suma de los dígitos de un número.
+
+6. **Contar el número de dígitos de un número**: Implementa una función recursiva para contar el número de dígitos en un número.
+
+7. **Máximo común divisor (MCD)**: Implementa el algoritmo de Euclides para encontrar el MCD de dos números utilizando recursividad.
+
+8. **Potencia de un número**: Escribe una función recursiva para calcular la potencia de un número.
+
+9. **Búsqueda binaria**: Implementa el algoritmo de búsqueda binaria utilizando recursividad.
+
+10. **Altura de un árbol binario**: Escribe una función recursiva para calcular la altura de un árbol binario.
+
+Estos son retos relativamente sencillos para empezar a practicar la recursividad. Te recomendaría que, al implementar cada uno, trates de entender realmente cómo la recursión funciona y por qué es útil en cada caso. Una vez que te sientas cómodo con estos, puedes pasar a desafíos más complejos.

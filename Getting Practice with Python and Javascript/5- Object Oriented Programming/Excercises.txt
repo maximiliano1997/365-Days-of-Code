@@ -1,0 +1,114 @@
+Claro, aquí te presento 10 ejercicios relacionados con la Programación Orientada a Objetos (POO):
+
+1. **Clase Coche**: Define una clase Coche que tenga los atributos marca, modelo, color, número de puertas, y velocidad máxima. Incluye métodos para acelerar, frenar, y obtener la información del coche.
+
+2. **Clase Estudiante**: Crea una clase Estudiante con atributos para el nombre, número de matrícula, y calificaciones (una lista). Incluye métodos para agregar calificaciones, calcular el promedio, y mostrar la información del estudiante.
+
+3. **Clase Libro y Autor**: Define una clase Autor con nombre y fecha de nacimiento, y una clase Libro que tenga título, año de publicación y autor. El autor deberá ser un objeto de la clase Autor.
+
+4. **Clase Polígono**: Define una clase abstracta Polígono, y clases derivadas como Triángulo, Cuadrado, Rectángulo, etc., que implementen los métodos para calcular el área y el perímetro.
+
+5. **Clase Empleado**: Crea una clase Empleado con atributos para el nombre, la ID del empleado, el salario base, y las horas extra trabajadas. Incluye métodos para calcular el salario con las horas extra, y mostrar la información del empleado.
+
+6. **Clase Cuenta Bancaria**: Crea una clase CuentaBancaria con atributos para el titular, el saldo, y el tipo de cuenta. Incluye métodos para depositar, retirar, y obtener la información de la cuenta.
+
+7. **Clase Animal y sus Subclases**: Define una clase Animal con atributos y métodos comunes a todos los animales, luego crea subclases como Mamífero, Ave, Reptil, etc., que hereden de la clase Animal y agreguen sus propias características y comportamientos.
+
+8. **Clase Producto e Inventario**: Crea una clase Producto con atributos como código, nombre, precio, etc., y una clase Inventario que contenga una lista de productos. Añade métodos en la clase Inventario para agregar, eliminar, y buscar productos.
+
+9. **Clase Matemáticas**: Crea una clase Matemáticas con métodos estáticos para realizar operaciones básicas (suma, resta, multiplicación, división), operaciones avanzadas (raíz cuadrada, exponentes, logaritmos), y verificar propiedades (número primo, número par/impar).
+
+10. **Clase Usuario y Administrador**: Crea una clase Usuario con atributos y métodos básicos para un usuario de un sistema, y una clase Administrador que herede de Usuario, pero añada funcionalidades extra como crear o eliminar otros usuarios.
+
+Recuerda que en la POO, las clases deben encapsular datos y comportamientos, es decir, deben tener atributos y métodos. Además, puedes explorar conceptos más avanzados como la herencia, el polimorfismo, y la abstracción en tus ejercicios.
+
+11. **Clase Circulo**: Define una clase Círculo con atributos como radio. Incluye métodos para calcular el área y la circunferencia.
+
+12. **Clase Rectángulo**: Define una clase Rectángulo con atributos longitud y ancho. Implementa métodos para calcular el área y el perímetro.
+
+13. **Clase Fecha**: Crea una clase Fecha con atributos día, mes, año. Implementa métodos para validar la fecha y calcular la diferencia entre dos fechas.
+
+14. **Clase Tiempo**: Define una clase Tiempo con atributos para horas, minutos, y segundos. Incluye métodos para agregar tiempo y restar tiempo.
+
+15. **Clase Punto y Línea**: Crea una clase Punto con coordenadas x, y y una clase Línea que utiliza dos objetos de la clase Punto para definirse.
+
+16. **Clase Fracción**: Crea una clase Fracción con numerador y denominador. Implementa métodos para sumar, restar, multiplicar y dividir fracciones.
+
+17. **Clase Persona**: Define una clase Persona con atributos nombre, edad y género. Agrega métodos apropiados para estos atributos.
+
+18. **Clase Paciente y Médico**: Crea las clases Paciente y Médico. Un médico puede tener varios pacientes, y un paciente solo puede tener un médico. 
+
+19. **Clase Tarjeta de Crédito**: Crea una clase Tarjeta de Crédito con atributos número de tarjeta, nombre del titular, fecha de vencimiento y CVV.
+
+20. **Clase Biblioteca y Clase Libro**: Crea una clase Biblioteca que tenga una lista de Libros.
+
+21. **Clase Aerolínea, Avión y Pasajero**: Haz clases que modelen una aerolínea, con aviones y pasajeros.
+
+22. **Clase Película y Actor**: Crea clases que representen una película y un actor, donde una película puede tener varios actores.
+
+23. **Clase Universidad, Clase Profesor y Clase Estudiante**: Modela una universidad con profesores y estudiantes.
+
+24. **Clase Juego y Jugador**: Crea clases para un juego y un jugador.
+
+25. **Clase Perro**: Crea una clase perro con atributos como raza, nombre y edad, e implementa métodos como ladrar, comer, etc.
+
+26. **Clase Pizza**: Crea una clase Pizza con atributos como tamaño, ingredientes, etc.
+
+27. **Clase Música y Artista**: Modela una clase Música y una clase Artista, donde un artista puede tener varias canciones.
+
+28. **Clase Habitación, Casa y Persona**: Crea clases que modelen una habitación, una casa y una persona, donde una casa tiene varias habitaciones y puede albergar a varias personas.
+
+29. **Clase Equipo y Jugador**: Modela un equipo deportivo y sus jugadores.
+
+30. **Clase Tienda y Producto**: Crea una clase Tienda con una lista de productos disponibles.
+
+...
+Sin embargo, ten en cuenta que puedes crear clases para representar cualquier objeto o concepto que desees, desde elementos tangibles como Carros, Teléfonos, Edificios, hasta conceptos abstractos como Cuentas Bancarias, Transacciones, Eventos, etc.
+
+Intenta pensar en objetos o situaciones del mundo real y cómo podrías representarlos utilizando clases, atributos y métodos. También puedes experimentar con diferentes aspectos de la POO, como la herencia, el polimorfismo, la abstracción y el encapsulamiento.
+
+¡Por supuesto! Sigamos con más ejercicios:
+
+31. **Clase Contacto**: Crea una clase Contacto con atributos como nombre, teléfono, correo electrónico, etc.
+
+32. **Clase Calculadora**: Implementa una clase Calculadora con métodos para realizar diversas operaciones matemáticas.
+
+33. **Clase Ordenador y Componentes**: Modela una clase Ordenador y clases para los diferentes componentes (procesador, memoria, etc.).
+
+34. **Clase Dirección**: Crea una clase Dirección con atributos para la calle, número, ciudad, código postal, etc.
+
+35. **Clase Vehículo y Subclases**: Crea una clase Vehículo y a partir de ella genera subclases como Coche, Motocicleta, Camión, etc.
+
+36. **Clase Aeropuerto, Avión y Pasajero**: Haz clases que modelen un aeropuerto, con aviones y pasajeros.
+
+37. **Clase Peluquería, Peluquero y Cliente**: Crea clases que representen una peluquería, un peluquero y un cliente, donde una peluquería puede tener varios peluqueros y clientes.
+
+38. **Clase Banco, Cuenta y Cliente**: Modela un banco con cuentas y clientes.
+
+39. **Clase Hotel, Habitación y Cliente**: Crea clases para un hotel y un cliente, donde un hotel tiene varias habitaciones y puede albergar a varios clientes.
+
+40. **Clase Restaurante, Mesa y Cliente**: Modela un restaurante con mesas y clientes.
+
+41. **Clase Lista de Reproducción y Canción**: Crea una clase Lista de Reproducción que contenga una lista de canciones.
+
+42. **Clase Tienda de Ropa, Ropa y Cliente**: Haz clases que modelen una tienda de ropa con diferentes piezas de ropa y clientes.
+
+43. **Clase Videojuego, Nivel y Jugador**: Modela un videojuego con varios niveles y jugadores.
+
+44. **Clase Cine, Sala y Película**: Crea clases que representen un cine con varias salas que proyectan diferentes películas.
+
+45. **Clase Supermercado, Producto y Cliente**: Modela un supermercado con diferentes productos y clientes.
+
+46. **Clase Curso, Profesor y Alumno**: Crea una clase Curso con un profesor y varios alumnos.
+
+47. **Clase Equipo de Música y Canción**: Crea una clase Equipo de Música que pueda reproducir canciones.
+
+48. **Clase Partido Político, Político y Votante**: Modela un partido político con varios políticos y votantes.
+
+49. **Clase Aplicación Móvil, Funcionalidad y Usuario**: Crea una clase Aplicación Móvil con varias funcionalidades y usuarios.
+
+50. **Clase Empresa, Departamento y Empleado**: Modela una empresa con varios departamentos y empleados.
+
+...
+  
+Espero que estos ejemplos te den una idea de la versatilidad de la programación orientada a objetos y cómo puedes aplicarla para representar una gran variedad de situaciones y conceptos.

@@ -1,0 +1,110 @@
+1-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 41.
+2-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "q".
+3-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 42.
+4-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 43.
+5-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "r".
+6-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 44.
+7-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 45.
+8-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "s".
+9-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 46.
+10-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 47.
+11-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "t".
+
+12-Escribir un programa que pida al usuario su peso y su altura y calcule su Índice de Masa Corporal (IMC).
+13-Escribir un programa que pida al usuario un número y muestre por pantalla si es múltiplo de 5.
+14-Escribir un programa que pida al usuario dos números y muestre por pantalla la resta de ellos.
+15-Escribir un programa que pida al usuario un número y muestre por pantalla si es un número primo.
+16-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "e".
+17-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 4.
+18-Escribir un programa que pida al usuario un número y muestre por pantalla si es múltiplo de 10.
+19-Escribir un programa que pida al usuario tres números y muestre por pantalla el menor de ellos.
+20-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si es un palíndromo.
+21-Escribir un programa que pida al usuario una nota del 0 al 100 y muestre por pantalla si está aprobado (60 o más) o no.
+22-Escribir un programa que pida al usuario dos números y muestre por pantalla la multiplicación de ellos.
+23-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es un año bisiesto.
+24-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "b".
+25-Escribir un programa que pida al usuario un carácter y muestre por pantalla si es una vocal minúscula.
+26-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla su longitud.
+27-Escribir un programa que pida al usuario un número entero y muestre por pantalla su tabla de multiplicar.
+28-Escribir un programa que pida al usuario dos números y muestre por pantalla el cociente y el resto de la división.
+29-Escribir un programa que pida al usuario un número entero y muestre por pantalla su factorización en primos.
+30-Escribir un programa que pida al usuario un número entero y muestre por pantalla su sucesor y su predecesor.
+
+31-Escribir un programa que pida al usuario un número entero y muestre por pantalla si está en el rango de 1 a 100.
+32-Escribir un programa que pida al usuario dos números y muestre por pantalla si el primer número es divisible por el segundo.
+33-Escribir un programa que pida al usuario una palabra y muestre por pantalla si es un palíndromo.
+34-Escribir un programa que pida al usuario un número y muestre por pantalla si es cuadrado perfecto.
+35-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene al menos una vocal.
+36-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es un cubo perfecto.
+37-Escribir un programa que pida al usuario tres números y muestre por pantalla el promedio de ellos.
+38-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si está en mayúsculas o minúsculas.
+39-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 3.
+40-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla cuántas vocales tiene.
+
+41-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 7.
+42-Escribir un programa que pida al usuario dos números y muestre por pantalla su máximo común divisor.
+43-Escribir un programa que pida al usuario dos números y muestre por pantalla su mínimo común múltiplo.
+44-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 6.
+45-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 8.
+46-Escribir un programa que pida al usuario dos números y muestre por pantalla la suma de ellos solo si el primer número es par.
+47-Escribir un programa que pida al usuario dos números y muestre por pantalla la suma de ellos solo si el segundo número es impar.
+48-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 9.
+49-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "z".
+50-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 11.
+
+51-Escribir un programa que pida al usuario un carácter y muestre por pantalla si es un símbolo de puntuación.
+52-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si todos los caracteres son letras.
+53-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 12.
+54-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "y".
+55-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es un número Fibonacci.
+56-Escribir un programa que pida al usuario un número entero y muestre por pantalla el factorial de ese número.
+57-Escribir un programa que pida al usuario dos números y muestre por pantalla la potencia del primer número elevado al segundo.
+58-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "c".
+59-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 14.
+60-Escribir un programa que pida al usuario un carácter y muestre por pantalla si es un dígito.
+
+61-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 15.
+62-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es un número perfecto.
+63-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "d".
+64
+
+-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 16.
+65-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 17.
+66-Escribir un programa que pida al usuario dos números y muestre por pantalla la suma de ellos solo si ambos son impares.
+67-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 18.
+68-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 19.
+69-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "f".
+70-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 20.
+
+71-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "g".
+72-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 21.
+73-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 22.
+74-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "h".
+75-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 23.
+76-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 24.
+77-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "i".
+78-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 25.
+79-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 26.
+80-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "j".
+
+81-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 27.
+82-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 28.
+83-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "k".
+84-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 29.
+85-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 30.
+86-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "l".
+87-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 31.
+88-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 32.
+89-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "m".
+90-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 33.
+
+91-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 34.
+92-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "n".
+93-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 35.
+94-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 36.
+95-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "o".
+96-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 37.
+97-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 38.
+98-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "p".
+99-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 39.
+100-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 40.

@@ -1,0 +1,204 @@
+1-Crear un diccionario con los nombres de tres cantantes y sus respectivas discografías, y mostrar la discografía del segundo cantante.
+
+2-Crear una lista con los nombres de cinco marcas de zapatos y agregar una sexta marca en la posición tres de la lista.
+
+3-Crear un conjunto con los nombres de tres novelas y mostrar si "1984" está en el conjunto.
+
+4-Crear un diccionario con los nombres de tres planetas y sus respectivos números de lunas. Mostrar el número de lunas del primer planeta en el diccionario.
+
+5-Crear un conjunto con los números del 10 al 1 y mostrar el número más grande en el conjunto.
+
+6-Crear un conjunto con los números divisibles por 3 del 1 al 10 y mostrar el número de elementos en el conjunto.
+
+7-Crear un diccionario con los nombres de tres estados y sus respectivas capitales. Agregar un cuarto estado al diccionario con su respectiva capital. Mostrar el diccionario resultante.
+
+8-Crear una lista con los números del 1 al 5 y mostrarlos en orden inverso.
+
+9-Crear una lista con los nombres de tres científicos y ordenar la lista en orden alfabético. Mostrar la lista resultante.
+
+10-Crear una lista con los nombres de tres elementos químicos y eliminar el segundo elemento de la lista. Mostrar la lista resultante.
+
+11-Crear una lista con los nombres de tres herramientas y agregar una cuarta herramienta al principio de la lista. Mostrar la lista resultante.
+
+12-Crear una lista con los nombres de tres lenguas antiguas y reemplazar el primer idioma de la lista por otro idioma. Mostrar la lista resultante.
+
+13-Crear una lista con los nombres de tres astronomos famosos y agregar dos astronomos más al final de la lista. Mostrar la lista resultante.
+
+14-Crear una tupla con los números del 1 al 3 y mostrar la suma de todos los elementos de la tupla.
+
+
+15-Crear un diccionario con los nombres de tres libros y sus respectivos autores, y mostrar el nombre del autor del tercer libro.
+
+16-Crear una lista con los nombres de cinco películas y agregar una sexta película al principio de la lista.
+
+17-Crear un conjunto con los nombres de tres deportes y mostrar si "Fútbol" está en el conjunto.
+
+18-Crear un diccionario con los nombres de tres marcas de coches y sus respectivos países de origen. Mostrar el país de origen de la segunda marca en el diccionario.
+
+19-Crear un conjunto con los números del 1 al 20 y mostrar el número más pequeño en el conjunto.
+
+20-Crear un conjunto con los números pares del 1 al 20 y mostrar el número de elementos en el conjunto.
+
+21-Crear un diccionario con los nombres de tres países y sus respectivas capitales. Agregar un cuarto país al diccionario con su respectiva capital. Mostrar el diccionario resultante.
+
+22-Crear una lista con los números del 10 al 1 y mostrarlos en orden ascendente.
+
+23-Crear una lista con los nombres de tres comidas y ordenar la lista en orden alfabético inverso. Mostrar la lista resultante.
+
+24-Crear una lista con los nombres de tres bandas de música y eliminar la última banda de la lista. Mostrar la lista resultante.
+
+25-Crear una lista con los nombres de tres planetas y agregar un cuarto planeta al final de la lista. Mostrar la lista resultante.
+
+26-Crear una lista con los nombres de tres ríos y reemplazar el primer río de la lista por otro río. Mostrar la lista resultante.
+
+27-Crear una lista con los nombres de tres lenguajes de programación y agregar dos lenguajes más al principio de la lista. Mostrar la lista resultante.
+
+28-Crear una tupla con los números del 1 al 10 y mostrar el producto de todos los elementos de la tupla.
+
+29-Crear un diccionario con los nombres de tres estados y sus respectivas capitales, y mostrar el nombre de la capital del primer estado.
+
+30-Crear una lista con los nombres de cinco series de TV y agregar una sexta serie en la posición tres de la lista.
+
+31-Crear un conjunto con los nombres de tres flores y mostrar si "Rosa" no está en el conjunto.
+
+32-Crear un diccionario con los nombres de tres instrumentos musicales y sus respectivas familias (cuerda, viento, percusión). Mostrar la familia del primer instrumento en el diccionario.
+
+33-Crear un conjunto con los números impares del 1 al 20 y mostrar el número de elementos en el conjunto.
+
+34-Crear un diccionario con los nombres de tres países y sus respectivos idiomas oficiales. Agregar un cuarto país al diccionario con su respectivo idioma oficial. Mostrar el diccionario resultante.
+
+35-Crear una lista con los nombres de las siete notas musicales y mostrarlas en orden inverso.
+
+36-Crear una lista con los nombres de tres actores/actrices y ordenar la lista en orden alfabético. Mostrar la lista resultante.
+
+37-Crear una lista con los nombres de tres continentes y eliminar el primer continente de la lista. Mostrar la lista resultante.
+
+38-Crear una lista con los nombres de tres montañas y agregar una cuarta montaña al principio de la lista. Mostrar la lista resultante.
+
+39-Crear una lista con los nombres de tres lagos y reemplazar el último lago de la lista por otro lago. Mostrar la lista resultante.
+
+40-Crear una lista con los nombres de tres bebidas y agregar dos bebidas más al final de la lista. Mostrar la lista resultante.
+
+41-Crear una tupla con los números del 1 al 5 y mostrar el promedio de todos los elementos de la tupla.
+
+(Continuará...)
+
+42-Crear un diccionario con los nombres de tres deportes y el número de jugadores que se necesitan para jugar, y mostrar el número de jugadores del tercer deporte.
+
+43-Crear una lista con los nombres de cinco marcas de ropa y agregar una sexta marca en la posición dos de la lista.
+
+44-Crear un conjunto con los nombres de tres frutas y mostrar si "Manzana" está en el conjunto.
+
+45-Crear un diccionario con los nombres de tres monumentos y sus respectivas ciudades. Mostrar la ciudad del segundo monumento en el diccionario.
+
+46-Crear un conjunto con los números del 1 al 50 y mostrar el número más pequeño en el conjunto.
+
+47-Crear un conjunto con los números impares del 1 al 50 y mostrar el número de elementos en el conjunto.
+
+48-Crear un diccionario con los nombres de tres escritores y sus respectivas nacionalidades. Agregar un cuarto escritor al diccionario con su respectiva nacionalidad. Mostrar el diccionario resultante.
+
+49-Crear una lista con los números del 100 al 1 y mostrarlos en orden ascendente.
+
+50-Crear una lista con los nombres de tres pintores y ordenar la lista en orden alfabético inverso. Mostrar la lista resultante.
+
+51-Crear una lista con los nombres de tres tipos de flores y eliminar la última flor de la lista. Mostrar la lista resultante.
+
+52-Crear una lista con los nombres de tres tipos de plantas y agregar una cuarta planta al final de la lista. Mostrar la lista resultante.
+
+53-Crear una lista con los nombres de tres tipos de árboles y reemplazar el primer árbol de la lista por otro árbol. Mostrar la lista resultante.
+
+54-Crear una lista con los nombres de tres tipos de peces y agregar dos tipos de peces más al principio de la lista. Mostrar la lista resultante.
+
+55-Crear una tupla con los números del 1 al 10 y mostrar la diferencia entre el número más grande y el más pequeño de la tupla.
+
+56-Crear un diccionario con los nombres de tres científicos y sus respectivas especialidades, y mostrar la especialidad del segundo científico.
+
+57-Crear una lista con los nombres de cinco idiomas y agregar un sexto idioma en la posición cuatro de la lista.
+
+58-Crear un conjunto con los nombres de tres películas y mostrar si "Titanic" no está en el conjunto.
+
+59-Crear un diccionario con los nombres de tres empresas y sus respectivos fundadores. Mostrar el fundador de la tercera empresa en el diccionario.
+
+60-Crear un conjunto con los números primos del 1 al 50 y mostrar el número de elementos en el conjunto.
+
+61-Crear un diccionario con los nombres de tres países y sus respectivas monedas. Agregar un cuarto país al diccionario con su respectiva moneda. Mostrar el diccionario resultante.
+
+62-Crear una lista con los nombres de los siete días de la semana y mostrarlos en orden inverso.
+
+63-Crear una lista con los nombres de tres directores de cine y ordenar la lista en orden alfabético. Mostrar la lista resultante.
+
+64-Crear una lista con los nombres de tres tipos de animales y eliminar el primer animal de la lista. Mostrar la lista resultante.
+
+65-Crear una lista con los nombres de tres tipos de aves y agregar una cuarta ave al principio de la lista. Mostrar la lista resultante.
+
+66-Crear una lista con los nombres de tres tipos de insectos y reemplazar el último insecto de la lista por otro insecto. Mostrar la lista resultante.
+
+67-Crear una lista con los nombres de tres tipos de reptiles y agregar dos tipos de reptiles más al final de la lista. Mostrar la lista resultante.
+
+68-Crear una tupla con los números del 1 al 5 y mostrar el promedio de todos los elementos de la tupla.
+
+69-Crear un diccionario con los nombres de tres actores y sus respectivas películas más famosas, y mostrar la película más famosa del primer actor.
+
+70-Crear una lista con los nombres de cinco personajes de una serie y agregar un sexto personaje en la posición tres de la lista.
+
+71-Crear un conjunto con los nombres de tres canciones y mostrar si "Bohemian Rhapsody" está en el conjunto.
+
+72-Crear un diccionario con los nombres de tres cantantes y sus respectivas canciones más famosas. Mostrar la canción más famosa del segundo cantante en el diccionario.
+
+73-Crear un conjunto con los números del 1 al 100 y mostrar el número más grande en el conjunto.
+
+74-Crear un conjunto con los números divisibles por 5 del 1 al 100 y mostrar el número de elementos en el conjunto.
+
+75-Crear un diccionario con los nombres de tres ciudades y sus respectivos alcaldes. Agregar una cuarta ciudad al diccionario con su respectivo alcalde. Mostrar el diccionario resultante.
+
+(Continuará...)
+
+76-Crear una lista con los números del 50 al 1 y mostrarlos en orden ascendente.
+
+77-Crear una lista con los nombres de tres marcas de coches y ordenar la lista en orden alfabético inverso. Mostrar la lista resultante.
+
+78-Crear una lista con los nombres de tres tipos de perros y eliminar el último perro de la lista. Mostrar la lista resultante.
+
+79-Crear una lista con los nombres de tres tipos de gatos y agregar un cuarto gato al final de la lista. Mostrar la lista resultante.
+
+80-Crear una lista con los nombres de tres tipos de caballos y reemplazar el primer caballo de la lista por otro caballo. Mostrar la lista resultante.
+
+81-Crear una lista con los nombres de tres tipos de roedores y agregar dos tipos de roedores más al principio de la lista. Mostrar la lista resultante.
+
+82-Crear una tupla con los números del 1 al 7 y mostrar el número más grande y el más pequeño de la tupla.
+
+83-Crear un diccionario con los nombres de tres presidentes y sus respectivos países, y mostrar el país del tercer presidente.
+
+84-Crear una lista con los nombres de cinco marcas de tecnología y agregar una sexta marca en la posición dos de la lista.
+
+85-Crear un conjunto con los nombres de tres programas de televisión y mostrar si "Breaking Bad" está en el conjunto.
+
+86-Crear un diccionario con los nombres de tres ríos y sus respectivos países. Mostrar el país del primer río en el diccionario.
+
+87-Crear un conjunto con los números del 1 al 50 y mostrar el número más pequeño en el conjunto.
+
+88-Crear un conjunto con los números pares del 1 al 50 y mostrar el número de elementos en el conjunto.
+
+89-Crear un diccionario con los nombres de tres arquitectos y sus respectivas obras más famosas. Agregar un cuarto arquitecto al diccionario con su respectiva obra más famosa. Mostrar el diccionario resultante.
+
+90-Crear una lista con los nombres de los doce meses del año y mostrarlos en orden inverso.
+
+91-Crear una lista con los nombres de tres universidades y ordenar la lista en orden alfabético. Mostrar la lista resultante.
+
+92-Crear una lista con los nombres de tres cursos en una universidad y eliminar el primer curso de la lista. Mostrar la lista resultante.
+
+93-Crear una lista con los nombres de tres tipos de plantas y agregar una cuarta planta al principio de la lista. Mostrar la lista resultante.
+
+94-Crear una lista con los nombres de tres tipos de piedras preciosas y reemplazar la última piedra de la lista por otra piedra. Mostrar la lista resultante.
+
+95-Crear una lista con los nombres de tres tipos de metales y agregar dos tipos de metales más al final de la lista. Mostrar la lista resultante.
+
+96-Crear una tupla con los números del 1 al 3 y mostrar el producto de todos los elementos de la tupla.
+
+97-Crear un diccionario con los nombres de tres escritores y sus respectivas novelas más famosas, y mostrar la novela más famosa del segundo escritor.
+
+98-Crear una lista con los nombres de cinco instrumentos musicales y agregar un sexto instrumento en la posición uno de la lista.
+
+99-Crear un conjunto con los nombres de tres pintores famosos y mostrar si "Picasso" no está en el conjunto.
+
+100-Crear un diccionario con los nombres de tres escultores y sus respectivas esculturas más famosas. Mostrar la escultura más famosa del tercer escultor en el diccionario.

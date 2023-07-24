@@ -1,0 +1,101 @@
+1-Imprimir los números del 1 al 10 usando un loop.
+2-Imprimir los números del 10 al 1 en orden descendente usando un loop.
+3-Imprimir todos los números pares del 1 al 20 usando un loop.
+4-Imprimir todos los números impares del 1 al 20 usando un loop.
+5-Sumar todos los números del 1 al 100 usando un loop.
+6-Sumar todos los números pares del 1 al 100 usando un loop.
+7-Sumar todos los números impares del 1 al 100 usando un loop.
+8-Multiplicar todos los números del 1 al 10 usando un loop.
+9-Imprimir la tabla de multiplicar del 7 usando un loop.
+10-Imprimir las tablas de multiplicar del 1 al 10 usando loops anidados.
+11-Imprimir el patrón de un triángulo de asteriscos utilizando loops.
+12-Imprimir el patrón de un cuadrado de asteriscos utilizando loops.
+13-Crear un loop que imprima los primeros 10 números de la secuencia de Fibonacci.
+14-Crear un loop que imprima los primeros 50 números primos.
+15-Crear un loop que encuentre el factorial de un número.
+16-Crear un loop que encuentre todos los divisores de un número.
+17-Crear un loop que imprima una lista de números en orden inverso.
+18-Crear un loop que imprima cada segundo elemento de una lista.
+19-Escribe un programa que pida al usuario dos palabras y luego imprima cuántas letras en común tienen.
+20-Escribe un programa que pida al usuario un número y luego imprima un cuadrado de asteriscos con ese número de filas y columnas.
+21-Escribe un programa que pida al usuario una cadena de texto y luego imprima la misma cadena pero con todas las consonantes en mayúscula.
+22-Escribe un programa que pida al usuario un número y calcule la suma de los dígitos de ese número.
+23-Escribe un programa que pida al usuario una palabra y luego imprima la misma palabra pero con las letras alternando entre mayúsculas y minúsculas.
+24-Escribe un programa que pida al usuario un número y luego imprima si ese número es perfecto o no. Un número perfecto es un número que es igual a la suma de sus divisores, excluyéndose a sí mismo.
+25-Escribe un programa que pida al usuario una cadena de texto y luego imprima cuántas vocales y consonantes tiene.
+26-Escribe un programa que pida al usuario una cadena de texto y luego imprima la misma cadena pero con las primeras letras de cada palabra en mayúscula.
+27-Escribe un programa que pida al usuario un número y calcule la suma de todos los números impares del 1 hasta ese número.
+28-Escribe un programa que pida al usuario un número y luego imprima la secuencia de números primos hasta ese número.
+29-Escribe un programa que pida al usuario una cadena de texto y luego imprima la misma cadena pero con las letras en orden alfabético.
+30-Escribe un programa que pida al usuario una palabra y determine si es un anagrama de otra palabra dada.
+
+31-Escribe un programa que pida al usuario dos números y calcule su máximo común divisor.
+32-Escribe un programa que pida al usuario dos números y calcule su mínimo común múltiplo.
+33-Escribe un programa que pida al usuario un número y luego imprima un rombo de asteriscos con ese número de filas.
+34-Escribe un programa que pida al usuario una cadena de texto y luego imprima cuántas palabras palíndromas contiene.
+35-Escribe un programa que pida al usuario un número y calcule el número de dígitos de ese número.
+36-Escribe un programa que pida al usuario una cadena de texto y luego imprima la misma cadena pero con cada segunda letra en mayúscula.
+37-Escribe un programa que pida al usuario un número y luego imprima si ese número es un número de Armstrong o no. Un número de Armstrong de tres dígitos es un número tal que la suma de los cubos de sus dígitos es igual al número mismo.
+38-Escribe un programa que pida al usuario una cadena de texto y luego imprima cuántas letras, dígitos y espacios en blanco tiene.
+39-Escribe un programa que pida al usuario una cadena de texto y luego imprima la misma cadena pero con las letras en orden alfabético inverso.
+40-Escribe un programa que pida al usuario una cadena de texto y luego imprima todas las subcadenas de esa cadena.
+
+41-Escribe un programa que imprima los primeros n números naturales, donde n es introducido por el usuario.
+42-Escribe un programa que imprima los primeros n números pares, donde n es introducido por el usuario.
+43-Escribe un programa que imprima los primeros n números impares, donde n es introducido por el usuario.
+44-Escribe un programa que imprima la tabla de multiplicar de n, donde n es introducido por el usuario.
+45-Escribe un programa que pida al usuario un número n y luego imprima los n primeros números de la secuencia de Fibonacci.
+46-Escribe un programa que pida al usuario un número n y luego imprima una pirámide de números del 1 al n.
+47-Escribe un programa que pida al usuario un número n y luego imprima los n primeros números primos.
+48-Escribe un programa que pida al usuario un número n y luego imprima la suma de los primeros n números naturales.
+49-Escribe un programa que pida al usuario un número n y luego imprima la suma de los primeros n números pares.
+50-Escribe un programa que pida al usuario un número n y luego imprima la suma de los primeros n números impares.
+
+
+51-Escribe un programa que pida al usuario un número n y luego imprima la suma de los cuadrados de los primeros n números naturales.
+52-Escribe un programa que pida al usuario un número n y luego imprima una pirámide inversa de números del n al 1.
+53-Escribe un programa que pida al usuario dos números, m y n, e imprima todos los números entre m y n.
+54-Escribe un programa que pida al usuario un número n y luego imprima la factorial de todos los números hasta n.
+55-Escribe un programa que pida al usuario un número n y luego imprima un patrón de asteriscos con n filas.
+56-Escribe un programa que pida al usuario un número n y luego imprima un patrón de números con n filas.
+57-Escribe un programa que pida al usuario un número n y luego imprima los n primeros números triangulares. Un número triangular se obtiene sumando todos los números naturales hasta un número n.
+58-Escribe un programa que pida al usuario un número n y luego imprima los n primeros números perfectos. Un número perfecto es un número que es igual a la suma de sus divisores, excluyéndose a sí mismo.
+59-Escribe un programa que pida al usuario un número n y luego imprima los n primeros números de la serie de Lucas. La serie de Lucas es similar a la serie de Fibonacci, pero comienza con 2 y 1 en lugar de 0 y 1.
+60-Escribe un programa que pida al usuario un número n y luego imprima una cuadrícula de asteriscos de n x n.
+
+61-Escribe un programa que imprima todos los números entre 1 y n que son divisibles por m. Ambos n y m son proporcionados por el usuario.
+62-Escribe un programa que imprima un patrón de estrella (star pattern) de n líneas, donde n es proporcionado por el usuario.
+63-Escribe un programa que calcule el producto de todos los números en una lista proporcionada por el usuario.
+64-Escribe un programa que encuentre el número más grande en una lista proporcionada por el usuario.
+65-Escribe un programa que encuentre el número más pequeño en una lista proporcionada por el usuario.
+66-Escribe un programa que sume todos los números en una lista proporcionada por el usuario.
+67-Escribe un programa que cuente la cantidad de números positivos y negativos en una lista proporcionada por el usuario.
+68-Escribe un programa que encuentre el segundo número más grande en una lista proporcionada por el usuario.
+69-Escribe un programa que encuentre el segundo número más pequeño en una lista proporcionada por el usuario.
+70-Escribe un programa que cuente la cantidad de elementos en una lista proporcionada por el usuario.
+
+
+71- Escribe un programa que encuentre la suma de los dígitos de un número introducido por el usuario.
+72- Escribe un programa que le pida al usuario un número y luego imprima la serie de cubos hasta ese número. 
+73- Escribe un programa que le pida al usuario un número y luego imprima una lista de todos los divisores de ese número.
+74- Escribe un programa que le pida al usuario un número y determine si ese número es un número de Armstrong.
+75- Escribe un programa que le pida al usuario un número y determine si ese número es un número de Harshad (es decir, es divisible por la suma de sus dígitos).
+76- Escribe un programa que le pida al usuario un número y luego imprima un patrón de estrellas en forma de cuadrado de lado n.
+77- Escribe un programa que le pida al usuario un número y luego imprima un patrón de estrellas en forma de rombo con n filas.
+78- Escribe un programa que le pida al usuario un número y luego imprima los primeros n números de la serie de Padovan.
+79- Escribe un programa que le pida al usuario un número y luego imprima los primeros n números de la serie de Pell.
+80- Escribe un programa que le pida al usuario un número y luego imprima los primeros n números de la serie de Jacobsthal.
+
+
+
+81-Escribe un programa que pida al usuario un número n y luego imprima un patrón de números de forma ascendente y descendente hasta n.
+82-Escribe un programa que pida al usuario un número n y luego imprima un patrón de números en forma de pirámide hasta n.
+83-Escribe un programa que pida al usuario un número n y luego imprima la suma de los cuadrados de los primeros n números impares.
+84-Escribe un programa que pida al usuario un número n y luego imprima la suma de los cubos de los primeros n números pares.
+85-Escribe un programa que pida al usuario un número n y luego imprima todos los múltiplos de n hasta 100.
+86-Escribe un programa que pida al usuario un número n y luego imprima los primeros n números en forma de espiral cuadrada.
+87-Escribe un programa que pida al usuario un número n y luego imprima los primeros n números de la serie de Bell. La serie de Bell es una serie de números en la que cada número es la suma de los dos anteriores, comenzando con 1 y 2.
+88-Escribe un programa que pida al usuario un número n y luego imprima los primeros n números de la serie de Narayana. La serie de Narayana es una serie de números en la que cada número es la suma de los tres anteriores, comenzando con 1, 1 y 1.
+89-Escribe un programa que pida al usuario un número n y luego imprima los primeros n números de la serie de Newman-Conway. La serie de Newman-Conway es una serie de números en la que cada número es la suma de los dos anteriores, excepto los dos primeros que son 1 y 1.
+90-Escribe un programa que pida al usuario un número n y luego imprima los primeros n números de la serie de Recamán. La serie de Recamán es una serie de números en la que cada número es la diferencia entre el número anterior y su posición en la serie, o la suma si la diferencia es negativa o ya se ha usado en la serie.
+
