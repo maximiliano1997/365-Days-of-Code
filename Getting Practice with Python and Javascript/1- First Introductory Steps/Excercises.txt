@@ -1,0 +1,206 @@
+1-Escribe un programa que solicite al usuario dos números y luego imprima la distancia Manhattan entre esos dos puntos en un sistema de coordenadas 1D. La fórmula para la distancia Manhattan en 1D es: d = |x2 - x1|.
+
+2-Crea un programa que pida al usuario una cadena de caracteres y luego imprima esa cadena con todas las vocales reemplazadas por asteriscos.
+
+3-Crea un programa que pida al usuario un número entero y luego imprima todos los números desde 1 hasta ese número, pero reemplaza los múltiplos de 3 con "Fizz", los múltiplos de 5 con "Buzz" y los múltiplos de ambos con "FizzBuzz".
+
+4-Escribe un programa que solicite al usuario una cadena de caracteres y luego imprima si esa cadena es un anagrama de otra cadena dada.
+
+5-Escribe un programa que solicite al usuario un número entero y luego imprima todos los factores primos de ese número.
+
+6-Crea un programa que pida al usuario una cantidad en grados Celsius y la convierta a grados Rankine. La fórmula para convertir de Celsius a Rankine es: R = (C + 273.15) * 9/5.
+
+7-Crea un programa que pida al usuario una cadena de caracteres y luego imprima el número de palabras en esa cadena que tienen más de 5 letras.
+
+8-Escribe un programa que solicite al usuario un número entero y luego imprima si ese número es un número triangular. Un número es triangular si es el resultado de sumar todos los números naturales hasta un cierto número.
+
+9-Escribe un programa que solicite al usuario una cantidad en millas y la convierta a yardas. Supón que el tipo de cambio es de 1760 yardas por milla.
+
+10-Crea un programa que pida al usuario una cantidad en centímetros y la convierta a pulgadas. Supón que el tipo de cambio es de 0.393701 pulgadas por centímetro.
+
+11-Crea un programa que pida al usuario un número entero y luego imprima todos los números de Fibonacci hasta ese número.
+
+12-Escribe un programa que solicite al usuario un número entero y luego imprima si ese número es un número de Bell. Un número es un número de Bell si es el número de formas de particionar un conjunto de tamaño n.
+
+13-Escribe un programa que solicite al usuario un número entero y luego imprima si ese número es un número de Bernoulli. Un número es un número de Bernoulli si es la solución a la ecuación de Bernoulli.
+
+14-Crea un programa que pida al usuario una cantidad en litros y la convierta a pintas. Supón que el tipo de cambio es de 2.11338 pintas por litro.
+
+15-Crea un programa que pida al usuario una cantidad en yardas y la convierta a metros. Supón que el tipo de cambio es de 0.9144 metros por yarda.
+
+16-Escribe un programa que solicite al usuario un número entero y luego imprima el número en notación romana.
+
+17-Escribe un programa que solicite al usuario un número entero y luego imprima el número en notación de posición.
+
+18-Crea un programa que pida al usuario un número entero y luego imprima la secuencia de números de Lucas hasta ese número. La secuencia de Lucas se define como L(0) = 2, L(1) = 1, y L(n) = L(n-1) + L(n-2) para n > 1.
+
+19-Escribe un programa que solicite al usuario su género y su año de nacimiento, y luego imprima cuántos años cumplirá el próximo año.
+
+20-Crea un programa que solicite al usuario el radio de una esfera y calcule su volumen. La fórmula V = 4/3 * pi * r^3. Luego, muestra en pantalla el resultado. Supón que pi es aproximadamente 3.14159.
+
+21-Escribe un programa que solicite al usuario un número y luego imprima su cuadrado y su raíz cuadrada.
+
+22-Crea un programa que pida al usuario una cantidad en euros y la convierta a dólares. Supón que el tipo de cambio es de 1.19 dólares por euro.
+
+23-Escribe un programa que solicite al usuario una frase y muestre en pantalla cuántas palabras tiene. Pista: usa .split().
+
+24-Escribe un programa que solicite al usuario su nombre completo y luego imprima sus iniciales.
+
+25-Crea un programa que pida al usuario un número entero y luego imprima si ese número es par o impar.
+
+26-Crea un programa que solicite al usuario una temperatura en grados Fahrenheit y luego imprima la temperatura equivalente en grados Celsius. La fórmula para convertir de Fahrenheit a Celsius es: C = (F - 32) * 5/9.
+
+27-Escribe un programa que solicite al usuario una cantidad en kilómetros y la convierta a millas. Supón que el tipo de cambio es de 0.621371 millas por kilómetro.
+
+28-Escribe un programa que solicite al usuario dos números enteros y luego imprima el mayor de los dos.
+
+29-Crea un programa que pida al usuario tres números y luego imprima el promedio de esos números.
+
+30-Escribe un programa que solicite al usuario una cantidad en libras y la convierta a kilogramos. Supón que el tipo de cambio es de 0.453592 kilogramos por libra.
+
+31-Escribe un programa que solicite al usuario un número entero y luego imprima si ese número es positivo, negativo o cero.
+
+32-Crea un programa que pida al usuario dos palabras y luego las imprima en orden alfabético.
+
+33-Crea un programa que pida al usuario su altura en centímetros y la convierta a pies. Supón que el tipo de cambio es de 0.0328084 pies por centímetro.
+
+34-Escribe un programa que solicite al usuario un número entero y luego imprima si ese número es primo o no.
+
+35-Escribe un programa que solicite al usuario la cantidad de segundos y luego la convierta a horas, minutos y segundos.
+
+36-Crea un programa que pida al usuario una cantidad en yen japonés y la convierta a euros. Supón que el tipo de cambio es de 0.0076 euros por yen.
+
+37-Crea un programa que pida al usuario su peso en libras y su altura en pulgadas, y luego calcule e imprima su índice de masa corporal (IMC). La fórmula para calcular el IMC es: IMC = peso * 703 / (altura ** 2).
+
+38-Escribe un programa que solicite al usuario tres palabras y luego las imprima en orden de longitud, de la más corta a la más larga.
+
+39-Crea un programa que pida al usuario su nombre, su edad y su ocupación, y lo muestre en pantalla utilizando una sola línea de código. 
+
+40-Escribe un programa que solicite al usuario un número y luego imprima todos los números desde 1 hasta ese número.
+
+(Continuará...)
+
+41-Crea un programa que pida al usuario dos números y luego imprima todos los números que se encuentran entre esos dos números.
+
+42-Escribe un programa que solicite al usuario un número y luego imprima todos los números pares desde 2 hasta ese número.
+
+43-Escribe un programa que solicite al usuario una cantidad en metros y la convierta a pies. Supón que el tipo de cambio es de 3.28084 pies por metro.
+
+44-Crea un programa que pida al usuario su peso en kilogramos y su altura en metros, y luego calcule e imprima su índice de masa corporal (IMC) en libras y pulgadas.
+
+45-Escribe un programa que solicite al usuario tres números y luego imprima el menor de esos números.
+
+46-Crea un programa que pida al usuario su altura en pulgadas y la convierta a centímetros. Supón que el tipo de cambio es de 2.54 centímetros por pulgada.
+
+47-Escribe un programa que solicite al usuario una cantidad en gramos y la convierta a onzas. Supón que el tipo de cambio es de 0.035274 onzas por gramo.
+
+48-Escribe un programa que solicite al usuario un número entero y luego imprima su factorial.
+
+49-Crea un programa que pida al usuario un número y luego imprima la tabla de multiplicar de ese número.
+
+50-Crea un programa que pida al usuario un número entero y luego imprima si ese número es un número de Armstrong. Un número de Armstrong de 3 dígitos es un número para el que la suma de sus dígitos al cubo es igual al número en sí.
+
+51-Escribe un programa que solicite al usuario un número entero y luego imprima la suma de todos los números desde 1 hasta ese número.
+
+52-Escribe un programa que solicite al usuario dos números y luego imprima el MCD (Máximo Común Divisor) de esos números.
+
+53-Crea un programa que pida al usuario dos números y luego imprima el MCM (Mínimo Común Múltiplo) de esos números.
+
+54-Crea un programa que pida al usuario un número entero y luego imprima todos los divisores de ese número.
+
+55-Escribe un programa que solicite al usuario un número entero y luego imprima el número de dígitos de ese número.
+
+56-Escribe un programa que solicite al usuario un número entero y luego imprima el número de dígitos pares e impares en ese número.
+
+57-Crea un programa que pida al usuario una cantidad en litros y la convierta a galones. Supón que el tipo de cambio es de 0.264172 galones por litro.
+
+58-Crea un programa que pida al usuario un número entero y luego imprima si ese número es un número perfecto. Un número perfecto es un número para el que la suma de sus divisores propios (excluyendo el mismo) es igual al número en sí.
+
+59-Escribe un programa que solicite al usuario dos números enteros y luego imprima la suma de los cuadrados de esos números.
+
+60-Escribe un programa que solicite al usuario un número entero y luego imprima todos los números primos desde 2 hasta ese número.
+
+(Continuará...)
+
+61-Crea un programa que pida al usuario dos números y luego imprima la potencia del primero elevado al segundo.
+
+62-Escribe un programa que solicite al usuario un número y luego imprima los primeros n números de Fibonacci.
+
+63-Escribe un programa que solicite al usuario una cadena de caracteres y luego imprima esa cadena en orden inverso.
+
+64-Crea un programa que pida al usuario una cantidad en millas y la convierta a kilómetros. Supón que el tipo de cambio es de 1.60934 kilómetros por milla.
+
+65-Escribe un programa que solicite al usuario un número entero y luego imprima el número en binario, octal y hexadecimal.
+
+66-Crea un programa que pida al usuario una cantidad en galones y la convierta a litros. Supón que el tipo de cambio es de 3.78541 litros por galón.
+
+67-Escribe un programa que solicite al usuario dos números y luego imprima el promedio de los números pares que se encuentran entre esos dos números.
+
+68-Escribe un programa que solicite al usuario una cantidad en onzas y la convierta a gramos. Supón que el tipo de cambio es de 28.3495 gramos por onza.
+
+69-Crea un programa que pida al usuario un número entero y luego imprima la suma de los dígitos de ese número.
+
+70-Crea un programa que pida al usuario una cadena de caracteres y luego imprima si esa cadena es un palíndromo. Un palíndromo es una palabra o frase que se lee igual hacia adelante y hacia atrás, ignorando los espacios, la puntuación y las diferencias de mayúsculas y minúsculas.
+
+71-Escribe un programa que solicite al usuario un número entero y luego imprima el número de veces que aparece cada dígito en ese número.
+
+72-Escribe un programa que solicite al usuario una cadena de caracteres y luego imprima el número de veces que aparece cada letra en esa cadena.
+
+73-Crea un programa que pida al usuario un número entero y luego imprima si ese número es un número feliz. Un número es feliz si al reemplazar el número por la suma de los cuadrados de sus dígitos, y repetir el proceso, el número 1 se alcanza eventualmente.
+
+74-Crea un programa que pida al usuario una cantidad en kilogramos y la convierta a libras. Supón que el tipo de cambio es de 2.20462 libras por kilogramo.
+
+75-Escribe un programa que solicite al usuario un número y luego imprima los primeros n números de la secuencia de Lucas. La secuencia de Lucas se define como L(0) = 2, L(1) = 1, y L(n) = L(n-1) + L(n-2) para n > 1.
+
+(Continuará...)
+
+
+76-Escribe un programa que solicite al usuario una cadena de caracteres y luego imprima cuántas vocales y consonantes tiene.
+
+77-Crea un programa que pida al usuario un número entero y luego imprima el número de cifras que tiene.
+
+78-Escribe un programa que solicite al usuario dos números y luego imprima todos los números impares que se encuentran entre esos dos números.
+
+79-Escribe un programa que solicite al usuario un número entero y luego imprima si ese número es un número de Kaprekar. Un número de Kaprekar es un número para el cual, si se eleva al cuadrado y luego se divide en dos partes numéricas, la suma de estas partes es el número original.
+
+80-Crea un programa que pida al usuario una cantidad en pulgadas y la convierta a centímetros. Supón que el tipo de cambio es de 2.54 centímetros por pulgada.
+
+81-Crea un programa que pida al usuario una cantidad en grados Celsius y la convierta a Kelvin. La fórmula para convertir de Celsius a Kelvin es: K = C + 273.15.
+
+82-Escribe un programa que solicite al usuario una cadena de caracteres y luego imprima la cadena en mayúsculas y en minúsculas.
+
+83-Escribe un programa que solicite al usuario un número entero y luego imprima el número de cifras pares e impares en ese número.
+
+84-Crea un programa que pida al usuario una cantidad en metros y la convierta a yardas. Supón que el tipo de cambio es de 1.09361 yardas por metro.
+
+85-Escribe un programa que solicite al usuario un número entero y luego imprima la suma de los números impares hasta ese número.
+
+86-Crea un programa que pida al usuario una cadena de caracteres y luego imprima esa cadena con cada palabra capitalizada.
+
+87-Escribe un programa que solicite al usuario un número entero y luego imprima todos los números primos gemelos hasta ese número. Los números primos gemelos son pares de números primos que difieren en dos.
+
+88-Escribe un programa que solicite al usuario un número entero y luego imprima el número de cifras distintas en ese número.
+
+89-Crea un programa que pida al usuario un número entero y luego imprima la suma de los dígitos de ese número hasta que el resultado tenga solo un dígito.
+
+90-Crea un programa que pida al usuario un número entero y luego imprima si ese número es un número palíndromo. Un número palíndromo se lee igual de izquierda a derecha que de derecha a izquierda.
+
+91-Escribe un programa que solicite al usuario un número entero y luego imprima el número en notación científica.
+
+92-Escribe un programa que solicite al usuario una cantidad en yardas y la convierta a metros. Supón que el tipo de cambio es de 0.9144 metros por yarda.
+
+93-Crea un programa que pida al usuario un número entero y luego imprima todos los números desde ese número hasta 1 en orden descendente.
+
+94-Crea un programa que pida al usuario una cantidad en Kelvin y la convierta a grados Celsius. La fórmula para convertir de Kelvin a Celsius es: C = K - 273.15.
+
+95-Escribe un programa que solicite al usuario un número entero y luego imprima la suma de los números primos hasta ese número.
+
+96-Escribe un programa que solicite al usuario una cadena de caracteres y luego imprima el número de veces que aparece cada vocal en esa cadena.
+
+97-Crea un programa que pida al usuario un número entero y luego imprima todos los números desde ese número hasta 1 en orden descendente, pero solo los números que son múltiplos de 3.
+
+98-Crea un programa que pida al usuario una cantidad en grados Fahrenheit y la convierta a Kelvin. La fórmula para convertir de Fahrenheit a Kelvin es: K = (F - 32) * 5/9 + 273.15.
+
+99-Escribe un programa que solicite al usuario un número entero y luego imprima la serie de Collatz de ese número. La serie de Collatz de un número se genera aplicando la operación "si es par, divídelo por 2; si es impar, multiplícalo por 3 y súmale 1" repetidamente hasta que el número sea 1.
+
+100-Escribe un programa que solicite al usuario dos números enteros y luego imprima la distancia Euclidiana entre esos dos puntos en un sistema de coordenadas 1D. La fórmula para la distancia Euclidiana en 1D es: d = sqrt((x2 - x1)^2).
