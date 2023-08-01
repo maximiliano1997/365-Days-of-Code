@@ -1,8 +1,13 @@
 Claro, aquí te presento 10 ejercicios relacionados con la Programación Orientada a Objetos (POO):
 
 1. **Clase Coche**: Define una clase Coche que tenga los atributos marca, modelo, color, número de puertas, y velocidad máxima. Incluye métodos para acelerar, frenar, y obtener la información del coche.
-
 2. **Clase Estudiante**: Crea una clase Estudiante con atributos para el nombre, número de matrícula, y calificaciones (una lista). Incluye métodos para agregar calificaciones, calcular el promedio, y mostrar la información del estudiante.
+
+
+
+
+------------------------------------------------------------
+
 
 3. **Clase Libro y Autor**: Define una clase Autor con nombre y fecha de nacimiento, y una clase Libro que tenga título, año de publicación y autor. El autor deberá ser un objeto de la clase Autor.
 
