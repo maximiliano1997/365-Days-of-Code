@@ -1,7 +1,7 @@
 // 2. ** Clase Estudiante **: Crea una clase Estudiante con atributos para el nombre, número de matrícula, y calificaciones(una lista).Incluye métodos para agregar calificaciones, calcular el promedio, y mostrar la información del estudiante.
 
 
-// Solucion:
+// Solucion: adventJS
 
 class Estudiante {
     constructor(nombre, nroMatricula, calificaciones) {
