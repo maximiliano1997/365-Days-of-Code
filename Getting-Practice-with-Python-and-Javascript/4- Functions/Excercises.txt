@@ -2,13 +2,13 @@ Seguro, aquí te dejo una lista de 50 ejercicios para practicar funciones en Pyt
 
 1.  Escribe una función que salude al usuario ingresado. 
 2.  Crea una función que tome dos números como parámetros y devuelva su suma.
-
+3.  Escribe una función que tome una lista de números y devuelva el mayor número en la lista.
 
 --------------------------------------------------------
 
 
 
-3.  Escribe una función que tome una lista de números y devuelva el mayor número en la lista.
+
 4.  Crea una función que tome una lista de números y devuelva el menor número en la lista.
 5.  Escribe una función que tome una lista de números y devuelva la suma de todos los números en la lista.
 6.  Crea una función que tome una lista de números y devuelva el promedio de los números.

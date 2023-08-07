@@ -1,12 +1,12 @@
 1-Crear un diccionario con los nombres de tres cantantes y sus respectivas discografías, y mostrar la discografía del segundo cantante.
-
 2-Crear una lista con los nombres de cinco marcas de zapatos y agregar una sexta marca en la posición tres de la lista.
+3-Crear un conjunto con los nombres de tres novelas y mostrar si "1984" está en el conjunto.
+
 
 
 
 ------------------------------------------------------------
 
-3-Crear un conjunto con los nombres de tres novelas y mostrar si "1984" está en el conjunto.
 
 4-Crear un diccionario con los nombres de tres planetas y sus respectivos números de lunas. Mostrar el número de lunas del primer planeta en el diccionario.
 

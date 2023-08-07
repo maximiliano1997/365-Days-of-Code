@@ -4,6 +4,7 @@ Los ejercicios están destinados a proporcionarte una comprensión de cómo pued
 
 1. Escribe una función que toma un número y devuelve su cuadrado.
 2. Escribe una función que toma una lista y devuelve una nueva lista con todos los elementos duplicados.
+3. Escribe una función que filtra una lista de números a solo números impares.
 
 
 
@@ -12,7 +13,6 @@ Los ejercicios están destinados a proporcionarte una comprensión de cómo pued
 
 
 
-3. Escribe una función que filtra una lista de números a solo números impares.
 4. Escribe una función que toma una lista de números y retorna el producto de todos los números.
 5. Escribe una función que toma una lista de cadenas y concatena todas las cadenas.
 6. Escribe una función que toma un número y calcula su factorial.
