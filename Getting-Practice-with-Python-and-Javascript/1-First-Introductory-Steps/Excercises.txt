@@ -1,6 +1,7 @@
 1-Escribe un programa que solicite al usuario dos números y luego imprima la distancia Manhattan entre esos dos puntos en un sistema de coordenadas 1D. La fórmula para la distancia Manhattan en 1D es: d = |x2 - x1|.
 2-Crea un programa que pida al usuario una cadena de caracteres y luego imprima esa cadena con todas las vocales reemplazadas por asteriscos.
 3-Crea un programa que pida al usuario un número entero y luego imprima todos los números desde 1 hasta ese número, pero reemplaza los múltiplos de 3 con "Fizz", los múltiplos de 5 con "Buzz" y los múltiplos de ambos con "FizzBuzz".
+4-Escribe un programa que solicite al usuario una cadena de caracteres y luego imprima si esa cadena es un anagrama de otra cadena dada.
 
 
 
@@ -12,7 +13,6 @@
 
 
 
-4-Escribe un programa que solicite al usuario una cadena de caracteres y luego imprima si esa cadena es un anagrama de otra cadena dada.
 
 5-Escribe un programa que solicite al usuario un número entero y luego imprima todos los factores primos de ese número.
 

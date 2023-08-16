@@ -3,6 +3,7 @@ Claro, aquí te presento 10 ejercicios relacionados con la Programación Orienta
 1. **Clase Coche**: Define una clase Coche que tenga los atributos marca, modelo, color, número de puertas, y velocidad máxima. Incluye métodos para acelerar, frenar, y obtener la información del coche.
 2. **Clase Estudiante**: Crea una clase Estudiante con atributos para el nombre, número de matrícula, y calificaciones (una lista). Incluye métodos para agregar calificaciones, calcular el promedio, y mostrar la información del estudiante.
 3. **Clase Libro y Autor**: Define una clase Autor con nombre y fecha de nacimiento, y una clase Libro que tenga título, año de publicación y autor. El autor deberá ser un objeto de la clase Autor.
+4. **Clase Polígono**: Define una clase abstracta Polígono, y clases derivadas como Triángulo, Cuadrado, Rectángulo, etc., que implementen los métodos para calcular el área y el perímetro.
 
 
 
@@ -12,7 +13,6 @@ Claro, aquí te presento 10 ejercicios relacionados con la Programación Orienta
 
 
 
-4. **Clase Polígono**: Define una clase abstracta Polígono, y clases derivadas como Triángulo, Cuadrado, Rectángulo, etc., que implementen los métodos para calcular el área y el perímetro.
 
 5. **Clase Empleado**: Crea una clase Empleado con atributos para el nombre, la ID del empleado, el salario base, y las horas extra trabajadas. Incluye métodos para calcular el salario con las horas extra, y mostrar la información del empleado.
 
