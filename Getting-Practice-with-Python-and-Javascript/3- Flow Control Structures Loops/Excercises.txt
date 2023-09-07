@@ -2,7 +2,7 @@
 2-Imprimir los números del 10 al 1 en orden descendente usando un loop.
 3-Imprimir todos los números pares del 1 al 20 usando un loop.
 4-Imprimir todos los números impares del 1 al 20 usando un loop.
-
+5-Sumar todos los números del 1 al 100 usando un loop.
 
 
 
@@ -17,7 +17,6 @@
 
 
 
-5-Sumar todos los números del 1 al 100 usando un loop.
 6-Sumar todos los números pares del 1 al 100 usando un loop.
 7-Sumar todos los números impares del 1 al 100 usando un loop.
 8-Multiplicar todos los números del 1 al 10 usando un loop.

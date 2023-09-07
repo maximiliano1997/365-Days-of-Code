@@ -2,6 +2,7 @@
 2-Crear una lista con los nombres de cinco marcas de zapatos y agregar una sexta marca en la posición tres de la lista.
 3-Crear un conjunto con los nombres de tres novelas y mostrar si "1984" está en el conjunto.
 4-Crear un diccionario con los nombres de tres planetas y sus respectivos números de lunas. Mostrar el número de lunas del primer planeta en el diccionario.
+5-Crear un conjunto con los números del 10 al 1 y mostrar el número más grande en el conjunto.
 
 
 
@@ -10,7 +11,6 @@
 
 
 
-5-Crear un conjunto con los números del 10 al 1 y mostrar el número más grande en el conjunto.
 
 6-Crear un conjunto con los números divisibles por 3 del 1 al 10 y mostrar el número de elementos en el conjunto.
 
