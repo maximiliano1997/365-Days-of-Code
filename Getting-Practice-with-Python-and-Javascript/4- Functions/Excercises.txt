@@ -5,6 +5,7 @@ Seguro, aquí te dejo una lista de 50 ejercicios para practicar funciones en Pyt
 3.  Escribe una función que tome una lista de números y devuelva el mayor número en la lista.
 4.  Crea una función que tome una lista de números y devuelva el menor número en la lista.
 5.  Escribe una función que tome una lista de números y devuelva la suma de todos los números en la lista.
+6.  Crea una función que tome una lista de números y devuelva el promedio de los números.
 
 
 
@@ -13,7 +14,6 @@ Seguro, aquí te dejo una lista de 50 ejercicios para practicar funciones en Pyt
 
 
 
-6.  Crea una función que tome una lista de números y devuelva el promedio de los números.
 7.  Escribe una función que tome un número y devuelva su factorial.
 8.  Crea una función que tome una cadena y devuelva la misma cadena en reversa.
 9.  Escribe una función que tome un número y verifique si es un número primo.

@@ -3,6 +3,8 @@
 3-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 42.
 4-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 43.
 5-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "r".
+6-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 44.
+7-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 45.
 
 
 
@@ -10,8 +12,6 @@
 -----------------------------------------------------
 
 
-6-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 44.
-7-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 45.
 8-Escribir un programa que pida al usuario una cadena de caracteres y muestre por pantalla si contiene la letra "s".
 9-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 46.
 10-Escribir un programa que pida al usuario un número entero y muestre por pantalla si es múltiplo de 47.

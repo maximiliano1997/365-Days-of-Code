@@ -3,6 +3,8 @@
 3-Crea un programa que pida al usuario un número entero y luego imprima todos los números desde 1 hasta ese número, pero reemplaza los múltiplos de 3 con "Fizz", los múltiplos de 5 con "Buzz" y los múltiplos de ambos con "FizzBuzz".
 4-Escribe un programa que solicite al usuario una cadena de caracteres y luego imprima si esa cadena es un anagrama de otra cadena dada.
 5-Escribe un programa que solicite al usuario un número entero y luego imprima todos los factores primos de ese número.
+6-Crea un programa que pida al usuario una cantidad en grados Celsius y la convierta a grados Rankine. La fórmula para convertir de Celsius a Rankine es: R = (C + 273.15) * 9/5.
+7-Crea un programa que pida al usuario una cadena de caracteres y luego imprima el número de palabras en esa cadena que tienen más de 5 letras.
 
 
 
@@ -16,9 +18,7 @@
 
 
 
-6-Crea un programa que pida al usuario una cantidad en grados Celsius y la convierta a grados Rankine. La fórmula para convertir de Celsius a Rankine es: R = (C + 273.15) * 9/5.
 
-7-Crea un programa que pida al usuario una cadena de caracteres y luego imprima el número de palabras en esa cadena que tienen más de 5 letras.
 
 8-Escribe un programa que solicite al usuario un número entero y luego imprima si ese número es un número triangular. Un número es triangular si es el resultado de sumar todos los números naturales hasta un cierto número.
 

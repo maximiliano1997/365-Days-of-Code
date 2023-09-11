@@ -3,6 +3,8 @@
 3-Crear un conjunto con los nombres de tres novelas y mostrar si "1984" está en el conjunto.
 4-Crear un diccionario con los nombres de tres planetas y sus respectivos números de lunas. Mostrar el número de lunas del primer planeta en el diccionario.
 5-Crear un conjunto con los números del 10 al 1 y mostrar el número más grande en el conjunto.
+6-Crear un conjunto con los números divisibles por 3 del 1 al 10 y mostrar el número de elementos en el conjunto.
+7-Crear un diccionario con los nombres de tres estados y sus respectivas capitales. Agregar un cuarto estado al diccionario con su respectiva capital. Mostrar el diccionario resultante.
 
 
 
@@ -12,9 +14,7 @@
 
 
 
-6-Crear un conjunto con los números divisibles por 3 del 1 al 10 y mostrar el número de elementos en el conjunto.
 
-7-Crear un diccionario con los nombres de tres estados y sus respectivas capitales. Agregar un cuarto estado al diccionario con su respectiva capital. Mostrar el diccionario resultante.
 
 8-Crear una lista con los números del 1 al 5 y mostrarlos en orden inverso.
 
