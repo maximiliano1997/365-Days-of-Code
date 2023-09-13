@@ -8,6 +8,7 @@ Los ejercicios están destinados a proporcionarte una comprensión de cómo pued
 4. Escribe una función que toma una lista de números y retorna el producto de todos los números.
 5. Escribe una función que toma una lista de cadenas y concatena todas las cadenas.
 6. Escribe una función que toma un número y calcula su factorial.
+7. Escribe una función que toma una lista de números y retorna la suma de todos los números.
 
 
 
@@ -16,7 +17,6 @@ Los ejercicios están destinados a proporcionarte una comprensión de cómo pued
 
 
 
-7. Escribe una función que toma una lista de números y retorna la suma de todos los números.
 8. Escribe una función que recibe una lista de listas y las aplanas a una sola lista.
 9. Escribe una función que retorna una lista de números y devuelve el número más grande.
 10. Escribe una función que toma una lista de números y devuelve el número más pequeño.
