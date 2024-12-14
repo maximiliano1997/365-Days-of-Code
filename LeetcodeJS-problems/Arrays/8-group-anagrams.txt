@@ -1,0 +1,25 @@
+Ambas soluciones tienen el mismo objetivo: agrupar las palabras de una lista en anagramas. Las diferencias principales entre Solution y Solution2 están en cómo calculan la clave única para agrupar las palabras:
+
+Diferencias clave:
+1. Método de cálculo de clave:
+Solution:
+Usa la representación ordenada de la palabra como clave.
+Ejemplo:
+
+Para "act", genera "act" (ordenada).
+Para "cat", genera "act" (ordenada).
+Ambas terminan con la misma clave.
+Solution2:
+Usa un hash basado en la frecuencia de letras como clave.
+Ejemplo:
+
+Para "act", crea un array de 26 elementos (uno por cada letra del alfabeto), como [1, 0, 1, 0, ..., 0] (frecuencia de a, c, t respectivamente).
+Para "cat", genera el mismo array [1, 0, 1, 0, ..., 0].
+La clave será el array convertido en string: "1,0,1,...,0".
+2. Velocidad y espacio:
+Solution:
+Es más rápido en términos de implementación, pero el ordenamiento (sort) tiene un costo de O(N log N) por palabra.
+
+Espacio extra usado para guardar las palabras ordenadas.
+Solution2:
+Más eficiente para palabras largas, ya que solo toma O(L) (donde L es la longitud de la palabra) para contar las letras. Sin embargo, el espacio usado para el array de conteo de frecuencias es mayor.
