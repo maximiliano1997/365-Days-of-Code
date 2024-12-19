@@ -1,0 +1,165 @@
+Description
+Given an integer array nums and an integer k, return the k most frequent elements within the array.
+
+The test cases are generated such that the answer is always unique.
+
+You may return the output in any order.
+
+Example 1:
+
+Input: nums = [1,2,2,3,3,3], k = 2
+
+Output: [2,3]
+Example 2:
+
+Input: nums = [7,7], k = 1
+
+Output: [7]
+Constraints:
+
+1 <= nums.length <= 10^4.
+-1000 <= nums[i] <= 1000
+1 <= k <= number of distinct elements in nums.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solution:
+
+
+Estas implementaciones resuelven el problema de encontrar los **k elementos más frecuentes** en un arreglo. Cada una utiliza un enfoque diferente para optimizar la solución según el caso. Vamos a desglosarlas:
+
+---
+
+### **1. Método con Contador y Ordenamiento**
+
+```javascript
+class Solution {
+    topKFrequent(nums, k) {
+        const count = {};
+        for (const num of nums) {
+            count[num] = (count[num] || 0) + 1;
+        }
+
+        const arr = Object.entries(count).map(([num, freq]) => [freq, parseInt(num)]);
+        arr.sort((a, b) => b[0] - a[0]);
+
+        return arr.slice(0, k).map(pair => pair[1]);
+    }
+}
+```
+
+**Explicación:**
+1. **Contador (`count`)**: Se usa un objeto para contar la frecuencia de cada número en `nums`.
+2. **Conversión a arreglo**: `Object.entries(count)` genera pares `[num, freq]`, y se convierte en `[freq, num]` para ordenar por frecuencia.
+3. **Ordenar**: Ordena los pares por frecuencia en orden descendente.
+4. **Seleccionar k elementos**: Usa `slice` para tomar los primeros `k` y luego extrae los números.
+
+**Complejidad:**
+- **Tiempo**: \(O(n + n \log n)\), donde \(n\) es la longitud de `nums`. El contador toma \(O(n)\) y la ordenación toma \(O(n \log n)\).
+- **Espacio**: \(O(n)\), por el objeto `count` y el arreglo `arr`.
+
+---
+
+### **2. Método con Heap (Cola de prioridad)**
+
+```javascript
+class Solution {
+    topKFrequent(nums, k) {
+        const count = {};
+        for (const num of nums) {
+            count[num] = (count[num] || 0) + 1;
+        }
+
+        const heap = new MinPriorityQueue(x => x[1]);
+        for (const [num, cnt] of Object.entries(count)) {
+            heap.enqueue([num, cnt]);
+            if (heap.size() > k) heap.dequeue();
+        }
+
+        const res = [];
+        for (let i = 0; i < k; i++) {
+            const [num, cnt] = heap.dequeue();
+            res.push(num);
+        }
+
+        return res;
+    }
+}
+```
+
+**Explicación:**
+1. **Contador (`count`)**: Igual que en el método anterior.
+2. **Heap mínimo**: Se usa una cola de prioridad (un heap mínimo) que almacena pares `[num, freq]` basados en la frecuencia.
+   - Si el tamaño del heap excede \(k\), elimina el elemento con menor frecuencia (`dequeue`).
+3. **Extraer resultados**: Los \(k\) elementos más frecuentes quedan en el heap.
+
+**Complejidad:**
+- **Tiempo**: \(O(n \log k)\), porque insertar y eliminar del heap toma \(O(\log k)\) y hay \(n\) elementos.
+- **Espacio**: \(O(n + k)\), para el objeto `count` y el heap.
+
+---
+
+### **3. Método con Bucket Sort**
+
+```javascript
+class Solution {
+    topKFrequent(nums, k) {
+        const count = {};
+        const freq = Array.from({ length: nums.length + 1 }, () => []);
+
+        for (const n of nums) {
+            count[n] = (count[n] || 0) + 1;
+        }
+        for (const n in count) {
+            freq[count[n]].push(parseInt(n));
+        }
+
+        const res = [];
+        for (let i = freq.length - 1; i > 0; i--) {
+            for (const n of freq[i]) {
+                res.push(n);
+                if (res.length === k) {
+                    return res;
+                }
+            }
+        }
+    }
+}
+```
+
+**Explicación:**
+1. **Contador (`count`)**: Igual que antes.
+2. **Bucket Sort (`freq`)**:
+   - Se crea un arreglo donde `freq[i]` contiene todos los números con frecuencia \(i\).
+   - Llena los buckets iterando sobre `count`.
+3. **Seleccionar k elementos**:
+   - Recorre los buckets desde el final (mayores frecuencias) y recoge los números hasta obtener \(k\) elementos.
+
+**Complejidad:**
+- **Tiempo**: \(O(n)\), ya que recorrer `nums`, llenar `freq` y recolectar los \(k\) elementos toma tiempo lineal.
+- **Espacio**: \(O(n)\), para el objeto `count` y el arreglo `freq`.
+
+---
+
+### Comparación de Métodos
+
+| Método               | Tiempo          | Espacio        | Casos de Uso                            |
+|----------------------|-----------------|----------------|-----------------------------------------|
+| Contador + Ordenar   | \(O(n \log n)\) | \(O(n)\)       | Arreglos pequeños o sin restricciones estrictas. |
+| Heap (Min Priority)  | \(O(n \log k)\) | \(O(n + k)\)   | Para valores de \(k\) pequeños comparados con \(n\). |
+| Bucket Sort          | \(O(n)\)       | \(O(n)\)       | Más eficiente cuando \(k\) es grande o \(n\) es enorme. |
+
+Cada método tiene ventajas según el tamaño del arreglo y el valor de \(k\).
